@@ -1,0 +1,27 @@
+campo;"	label	";valor
+"encargo	";Pré-fixado;101
+"encargo	";Pós-fixado referenciado em juros flutuantes;204
+tipoPessoa;Pessoa física;1
+tipoPessoa;Pessoa jurídica;2
+modalidade;Adiantamento sobre contratos de câmbio (ACC);502
+modalidade;Antecipação de faturas de cartão de crédito;303
+modalidade;Capital de giro com prazo até 365 dias;210
+modalidade;Capital de giro com prazo superior a 365 dias;211
+modalidade;Conta garantida;217
+modalidade;Desconto de duplicatas;301
+modalidade;Vendor;404
+modalidade;Aquisição de outros bens;402
+modalidade;Aquisição de veículos;401
+modalidade;Arrendamento mercantil de veículos;1205
+modalidade;Cartão de crédito - parcelado;215
+modalidade;Cartão de crédito - rotativo em atraso;203
+modalidade;Cartão de crédito - rotativo em curso normal;202
+modalidade;Cartão de crédito - rotativo total;204
+modalidade;Cheque especial;216
+modalidade;Crédito pessoal consignado INSS;218
+modalidade;Crédito pessoal consignado privado;219
+modalidade;Crédito pessoal consignado público;220
+modalidade;Crédito pessoal não-consignado;221
+modalidade;Desconto de cheques;302
+modalidade;Financiamento imobiliário com taxas de mercado;903
+modalidade;Financiamento imobiliário com taxas reguladas;905

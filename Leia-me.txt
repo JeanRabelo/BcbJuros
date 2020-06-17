@@ -1,0 +1,31 @@
+<select id="encargo">
+	<option value="101">Pré-fixado</option>
+	<option value="204">Pós-fixado referenciado em juros flutuantes</option>
+</select>
+
+<select id="tipoPessoa">
+	<option value="1">Pessoa física</option>
+	<option value="2">Pessoa jurídica</option>
+</select>
+
+<select id="modalidade">
+	<option value="502">Adiantamento sobre contratos de câmbio (ACC)</option>
+	<option value="303">Antecipação de faturas de cartão de crédito</option>
+	<option value="210">Capital de giro com prazo até 365 dias</option>
+	<option value="211">Capital de giro com prazo superior a 365 dias</option>
+	<option value="216">Cheque especial</option>
+	<option value="217">Conta garantida</option>
+	<option value="302">Desconto de cheques</option>
+	<option value="301">Desconto de duplicatas</option>
+	<option value="404">Vendor</option>
+</select>
+
+<select id="periodoInicial">
+	<option value="5/20/2020 12:00:00 AM">20/05/2020</option>
+	<option value="5/19/2020 12:00:00 AM">19/05/2020</option>
+	<option value="5/18/2020 12:00:00 AM">18/05/2020</option>
+	<option value="5/15/2020 12:00:00 AM">15/05/2020</option>
+	<option value="5/14/2020 12:00:00 AM">14/05/2020</option>
+	<option value="5/13/2020 12:00:00 AM">13/05/2020</option>
+	<option value="5/12/2020 12:00:00 AM">12/05/2020</option>
+</select>
