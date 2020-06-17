@@ -1,117 +1,48 @@
-"<?xml version=""1.0"" encoding=""pt-br""?>"
-"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"""
-"  ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">"
-"<html xmlns=""http://www.w3.org/1999/xhtml"" lang=""pt-br"" xml:lang=""pt-br"">"
-<head>
-<title>Erro interno do Servidor!</title>
-"<link rev=""made"" />"
-<style>
-	a:link    {color:#0036D7; text-decoration: none;}		/* #4D749F */
-	a:hover   {color:#3366ff;}
-	a:active  {color:#0036D7;}
-	a:link	  {color:#0036D7;}
-	a:visited {color:#AF8C3A; text-decoration: none;}
-</style>
+﻿Textbox15,Textbox4,Textbox10
+19/05/2020 a 25/05/2020,Pessoa jurídica - Capital de giro com prazo até 365 dias,Pré-fixado
 
-</head>
+POSICAO,IF_NM,TAXAS_MENSAIS,TAXAS_ANUAIS
+1,BCO SUMITOMO MITSUI BRASIL S.A.,"   0,35","     4,30"
+2,COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO,"   0,42","     5,20"
+3,BCO HONDA S.A.,"   0,43","     5,24"
+4,BCO CITIBANK S.A.,"   0,56","     6,89"
+5,BCO ABC BRASIL S.A.,"   0,59","     7,35"
+6,BCO RABOBANK INTL BRASIL S.A.,"   0,62","     7,75"
+7,BANCO JOHN DEERE S.A.,"   0,72","     8,99"
+8,BCO VOTORANTIM S.A.,"   0,80","    10,00"
+9,ITAÚ UNIBANCO S.A.,"   0,85","    10,67"
+10,BCO DO BRASIL S.A.,"   0,87","    11,00"
+11,BCO SAFRA S.A.,"   0,88","    11,11"
+12,BCO SANTANDER (BRASIL) S.A.,"   0,90","    11,37"
+13,BANCO MONEO S.A.,"   0,99","    12,55"
+14,BCO SOFISA S.A.,"   1,04","    13,22"
+15,BCO VOLVO BRASIL S.A.,"   1,08","    13,79"
+16,BCO BS2 S.A.,"   1,10","    14,03"
+17,BCO ALFA S.A.,"   1,13","    14,41"
+18,BCO DAYCOVAL S.A,"   1,30","    16,79"
+19,BCO BRADESCO S.A.,"   1,32","    16,97"
+20,BCO DO EST. DE SE S.A.,"   1,32","    17,01"
+21,BCO DO NORDESTE DO BRASIL S.A.,"   1,39","    17,99"
+22,BCO DO ESTADO DO RS S.A.,"   1,42","    18,39"
+23,CAIXA ECONOMICA FEDERAL,"   1,42","    18,49"
+24,BANCO INBURSA,"   1,50","    19,56"
+25,BANCO BTG PACTUAL S.A.,"   1,56","    20,39"
+26,BANCO SEMEAR,"   1,62","    21,22"
+27,BCO INDUSTRIAL DO BRASIL S.A.,"   1,90","    25,34"
+28,FINANC ALFA S.A. CFI,"   2,00","    26,82"
+29,BCO MUFG BRASIL S.A.,"   2,03","    27,24"
+30,LECCA CFI S.A.,"   2,07","    27,80"
+31,GOLCRED S/A - CFI,"   2,20","    29,76"
+32,BCO ARBI S.A.,"   2,20","    29,84"
+33,BCO TRIANGULO S.A.,"   2,27","    30,86"
+34,BCO INDUSCRED DE INVESTIM. S/A,"   2,31","    31,57"
+35,BRB - BCO DE BRASILIA S.A.,"   2,53","    34,92"
+36,SENFF S.A. - CFI,"   2,69","    37,44"
+37,BCO DA AMAZONIA S.A.,"   2,88","    40,58"
+38,BCO MERCANTIL DO BRASIL S.A.,"   3,01","    42,81"
+39,BRK S.A. CFI,"   3,02","    42,84"
+40,BCO BANESTES S.A.,"   3,10","    44,23"
+41,VIA CERTA FINANCIADORA S.A. - CFI,"   3,42","    49,64"
+42,PORTOSEG S.A. CFI,"   3,58","    52,42"
+43,BANCO TOPÁZIO S.A.,"   8,42","   163,88"
 
-"<body style=""margin:0;"" class=""semTemplate"">"
-"	<table border=""0"" width=""100%""  cellpadding=""0"" cellspacing=""0"">"
-		<tr>
-"			<td height=""23"" colspan=""6"" align=""left"" valign=""top"" bgcolor=""#FFCC00""><img src=""/local_img/home/logo_faz2.gif"" width=""177"" height=""23"" alt=""Ministrio da Fazenda""></td>"
-"			<td bgcolor=""#FFCC00"" align=""right""><img src=""/local_img/home/brasil2.gif"" border=""""0 width=""74"" height=""21"" alt=""Acesse o Portal do Governo Brasileiro""></td>"
-		</tr>
-"		<tr bgcolor=""#003d79"">"
-"			<td height=""40"" colspan=""7"" align=""left"" valign=""top"" style=""vertical-align:middle""><a href=""http://www.bcb.gov.br"" alt=""Pgina inicial""><img src=""/local_img/logobacen_transp.gif"" border=""0"" width=""165"" height=""35"" alt=""Pgina inicial""></a></td>"
-		</tr>
-		<tr>
-"			<td width=""194"" rowspan=""4"" align=""left"" valign=""top"" bgcolor=""#E5E9ED"">&nbsp;</td>"
-"			<td height=""40"" colspan=""6"" align=""left"" valign=""top""><img src=""/local_img/transparent.gif"" width=""1"" height=""40""></td>"
-		</tr>
-		<tr>
-"			<td width=""20"" rowspan=""2"" align=""left"" valign=""top""><img src=""/local_img/transparent.gif"" width=""20"" height=""20""></td>"
-"			<td width=""301"">&nbsp;</td>"
-"			<td width=""50"" rowspan=""2"" valign=""top""><img src=""/local_img/transparent.gif"" width=""50"" height=""1""></td>"
-"			<td width=""301"" valign=""top"">&nbsp;</td>"
-"			<td rowspan=""2"" align=""left"" valign=""top"">&nbsp;</td>"
-		</tr>
-      <tr>
-"			<td height=""250"" valign=""top"">"
-					<!--INICIO TABELA PORTUGUS-->
-"					<table  border=""0"" style=""border:solid 2 #4a73a2"" width=""330"" height=""185"" align=""right"" cellpadding=""0"" cellspacing=""0"">"
-						<tr>
-"							<td height=""4"" colspan=""3"" valign=""top"" bgcolor=""#F2F4F6"">&nbsp;</td>"
-						</tr>
-						<tr>
-"							<td height=""4"" width=""6"" align=""right"" valign=""middle"" bgcolor=""#003d79""></td>"
-"							<td height=""19"" valign=""top"" bgcolor=""#003d79""><font size=""2"" color=""white"" face=""Verdana", Arial, Helvetica," sans-serif""><strong>Erro interno do Servidor!</strong></font></td>"
-"							<td height=""4"" valign=""top"" bgcolor=""#003d79"">&nbsp;</td>"
-						</tr>
-"						<tr bgcolor=""#F2F4F6"">"
-"							<td width=""14"" rowspan=""3"" valign=""top""></td>"
-"							<td width=""243"" height=""98"" align=""left"" valign=""middle"" bgcolor=""#F2F4F6"">"
-"								<font size=""2"" face=""Verdana", Arial, Helvetica," sans-serif"">"
-								  O servidor encontrou um erro interno e n&atilde;o pode
-    completar sua requisi&ccedil;&atilde;o.   
-								</font>
-							</td>
-"							<td width=""20"" rowspan=""3"" valign=""top"">&nbsp;</td>"
-						</tr>
-						<tr>
-"							<td colspan=""3"" align=""left"" height=""22"" valign=""top"" bgcolor=""#F2F4F6"" style=""text-indent:20;"">"
-"								<a href=""javascript:history.back();""><img src=""/local_img/fundoazul/a_anter.gif"" border=""0"" alt=""Volta  pgina anterior""><font size=""2"" face=""Verdana", Arial, Helvetica," sans-serif"">&nbsp;Voltar&nbsp;</font></a><a href=""http://www.bcb.gov.br/"">&nbsp;&nbsp;&nbsp;&nbsp;<img src=""/local_img/home.gif"" border=""0"" alt=""Volta  pgina inicial da homepage""><font size=""2"" face=""Verdana", Arial, Helvetica," sans-serif"">&nbsp;P&aacute;gina inicial</font></a>"
-							</td>
-						</tr>
-						<tr>
-"							<td colspan=""3"" align=""left"" height=""22"" valign=""top"" bgcolor=""#F2F4F6"">&nbsp;</td>"
-						</tr>
-					</table>
-					<!--FIM TABELA PORTUGUS-->
-				</td>	
-"				<td width=""301"" valign=""top"">"
-					<!--INICIO TABELA INGLS-->
-"					<table border=""0"" width=""330"" height=""185"" style=""border:solid 2 #4a73a2"" align=""left"" cellpadding=""0"" cellspacing=""0"">"
-						
-						<tr>
-"							<td height=""19"" colspan=""3"" valign=""top"" bgcolor=""#F2F4F6""></td>"
-						</tr>
-						<tr>
-"							<td height=""19"" width=""30"" align=""right"" valign=""middle"" bgcolor=""#003d79""></td>"
-"							<td height=""19"" valign=""top"" bgcolor=""#003d79""><font size=""2"" color=""white"" face=""Verdana", Arial, Helvetica," sans-serif""><strong>Server error</strong></font></td>"
-"							<td height=""19"" valign=""top"" bgcolor=""#003d79""><img src=""/local_img/transparent.gif"" width=""20"" height=""20""></td>"
-						</tr>
-"						<tr bgcolor=""#F2F4F6"">"
-"							<td width=""14"" rowspan=""3"" valign=""top""></td>"
-"							<td width=""243"" height=""99"" align=""left"" valign=""middle"" bgcolor=""#F2F4F6""><font size=""2"" face=""Verdana", Arial, Helvetica," sans-serif"">"
-                      The server encountered an internal error and was unable to complete your request.
-                      </font></td>
-"							<td width=""20"" rowspan=""3"" valign=""top"">&nbsp;</td>"
-						</tr>
-						<tr>
-"							<td colspan=""3"" align=""left"" height=""22"" valign=""top"" bgcolor=""#F2F4F6"" style=""text-indent:50;"">"
-"								<a href=""javascript:history.back();""><img src=""/local_img/fundoazul/a_anter.gif"" border=""0"" alt=""Back to last page visited""><font size=""2"" face=""Verdana", Arial, Helvetica," sans-serif"">&nbsp;Back</font></a><a href=""http://www.bcb.gov.br/?english"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=""/local_img/home.gif"" border=""0"" alt=""Back to Banco Central's main page""><font size=""2"" face=""Verdana", Arial, Helvetica," sans-serif"">&nbsp;Home</font></a>"
-							</td>
-"						<tr bgcolor=""#F2F4F6"">"
-"							<td height=""18"" colspan=""3"" valign=""top""></td>"
-						</tr>
-					</table>
-					<!--FIM TABELA INGLS-->
-			</td>
-		</tr>
-	<tr>
-	<td></td>
-"	<td colspan=""4"" style=""border-top-color:#003d79;border-top-width:1;border-top-style:solid;"">"
-"		<font size=""2"" color=""red"" face=""Verdana", Arial, Helvetica," sans-serif"">"
-			Technical Information: Error 500
-         <address>
-         
-"         <span><!--#config timefmt=""%c"" --><!--# echo var=""date_local"" default=""-"" --><br />"
-         </span>
-         </address>		
-         </font>
-	</td>
-	</tr>
-	</table>
-
-</body>
-</html>

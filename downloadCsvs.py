@@ -12,20 +12,25 @@ def dataMascaraTraducao(dataMascara):
         mes = mes[1]
 
     ano = dataMascara[-4:]
-    dataTraducao = dia + '/' + mes + '/' + ano + r'%2012:00:00%20AM'
+    dataTraducao = mes + '/' +  dia + '/' + ano + r'%2012:00:00%20AM'
     return str(dataTraducao)
 
 def tentar(url, tentativas = 5):
-    try:
-        sleep(5)
-        response = requests.get(url)
-    except:
-        if tentativas >=0:
+    if tentativas >=0:
+        try:
+            sleep(5)
+            response = requests.get(url)
+            if not response:
+                print('tentativas restantes = ' + str(tentativas))
+                print('Não veio uma 200')
+                sleep(60 - 10 * tentativas)
+                response = tentar(url, tentativas - 1)
+        except:
             sleep(60 - 10 * tentativas)
-            print('tentativas restantes = ' + tentativas)
+            print('tentativas restantes = ' + str(tentativas))
             response = tentar(url, tentativas - 1)
-        else:
-            print('deu ruim')
+    else:
+        print('deu ruim')
     return response
 
 # Config dicionario
